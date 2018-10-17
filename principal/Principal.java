@@ -39,5 +39,7 @@ public class Principal
         }
         System.out.println("A coleção de " + colecionador.getNome()+" é: " + colecionador.getColecao());
 
+        System.out.println("teste");
+
     }
 }
